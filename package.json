@@ -1,0 +1,27 @@
+{
+  "name": "team_homepage",
+  "version": "1.0.0",
+  "description": "An introduction to our team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LadyShelley2/team_homepage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LadyShelley2/team_homepage/issues"
+  },
+  "homepage": "https://github.com/LadyShelley2/team_homepage#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-less": "^3.0.5"
+  }
+}
